@@ -1,0 +1,11 @@
+
+.list {
+  background-color: white;
+  padding: 0.5rem;
+  box-shadow: none !important;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited, .btn:focus {
+    background-color: #2F4F4F !important;
+    
+}
